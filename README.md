@@ -1,7 +1,7 @@
 # React Youtube clone - Single page application using React
 
-# Demo: https://youtube-clone1313.herokuapp.com/
-# Developed using - advanced features of React, Redux, and Router
++ Demo: https://youtube-clone1313.herokuapp.com/
++ Developed using - advanced features of React, Redux, and Router
 
 User Story:
   - User can search in real time for videos 
